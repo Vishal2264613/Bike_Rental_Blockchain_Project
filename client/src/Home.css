@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.firstTitle {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  font-weight: 900;
+  padding: 20px;
+}
+
+.secondTitle {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(99, 195, 160);
+  margin-bottom: 20px;
+}
+.paragraph {
+  align-items: center;
+  width: 50%;
+  margin-left: 25%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  padding: 20px;
+}

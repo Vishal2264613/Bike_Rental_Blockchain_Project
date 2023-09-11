@@ -1,0 +1,28 @@
+.hero-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  padding-top: 60px;
+}
+.B1Container,
+.B2Container,
+.B3Container {
+  height: 500px;
+  width: 500px;
+}
+img {
+  height: 230px;
+  width: 400px;
+}
+.bikeDesc {
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+}
+.btnContainer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 80px;
+  margin-right: 80px;
+}
